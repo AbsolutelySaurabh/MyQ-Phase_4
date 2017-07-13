@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/Desktop/MyQ_Badges_Live-master/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89d31ffb9fc0bb756ae6333a4efb5d05a7ba4e0d">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_Badges_Live-master/app/build/intermediates/pre-dexed/debug/classes_f6bd8977259526fbebf1212390fa015de51d14e8.jar" />
+    </item>
+
+</items>
