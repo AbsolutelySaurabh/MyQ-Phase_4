@@ -1,3 +1,2 @@
-# myqwaste
-# MyQPhase2End
-"# ff" 
+#MyQ andorid app:
+
