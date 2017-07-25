@@ -33,7 +33,6 @@ public class GroupActivity extends AppCompatActivity {
     public String POST_ADD_TO_GROUP = "http://myish.com:10011/api/adduserstogroup";
     public String UPDATE_MEMBERS = "http://myish.com:10011/api/updatemembers/";
 
-
     public ArrayList<String> al_name;
     public ArrayList<String> al_points;
 

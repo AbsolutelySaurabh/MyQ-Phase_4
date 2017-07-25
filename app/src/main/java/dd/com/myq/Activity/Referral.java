@@ -81,7 +81,7 @@ public class Referral extends AppCompatActivity {
                             Intent sharingIntent = new Intent(Intent.ACTION_SEND);
                             sharingIntent.putExtra(Intent.EXTRA_TEXT, "Hey, install MyQ android app on playstore " +
                                             "https://play.google.com/store/apps/details?id=dd.com.myq&hl=en  " +
-                                            "and use my Referral Code to earn extra points:"+ "\nReferral Code: "+"\n"+referral_user_id);
+                                            "and use my Referral Code to earn extra points:"+ "\nReferral Code: "+"\n"+"\n"+referral_user_id);
                             sharingIntent.setType("text/plain");
                             startActivity(Intent.createChooser(sharingIntent,"Share using"));
                         }
